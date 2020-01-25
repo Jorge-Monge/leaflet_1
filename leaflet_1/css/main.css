@@ -125,9 +125,9 @@ button.basemap_option:hover {
   padding: 0px;
   position: absolute;
   z-index: 1000;
-  top: 0;
-  left: -100vw;
-  min-width: 30%;
+  top: 50px;
+  right: 100vw;
+  /*min-width: 30%;*/
   border-bottom-right-radius: 5px;
 }
 
@@ -138,7 +138,7 @@ button.basemap_option:hover {
 }
 
 #new_marker_container.escondido {
-  left: -100vw;
+  right: 100vw;
   /*-webkit-animation: slide_close 1s forwards;
     animation: slide_close 1s forwards;*/
 }
