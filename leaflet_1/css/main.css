@@ -125,14 +125,14 @@ button.basemap_option:hover {
   padding: 0px;
   position: absolute;
   z-index: 1000;
-  top: 0;
+  bottom: 0;
   left: -100%;
   min-width: 30%;
   border-bottom-right-radius: 5px;
 }
 
 #new_marker_container.shown {
-  top: 0;
+  bottom: 0;
   /*-webkit-animation: slide_open 0.5s forwards;
     animation: slide_open 0.5s forwards;*/
 }
