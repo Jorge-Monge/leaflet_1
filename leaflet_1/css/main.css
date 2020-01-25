@@ -125,7 +125,7 @@ button.basemap_option:hover {
   padding: 0px;
   position: absolute;
   z-index: 1000;
-  top: 50px;
+  top: 0;
   right: 100vw;
   /*min-width: 30%;*/
   border-bottom-right-radius: 5px;
