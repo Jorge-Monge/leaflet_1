@@ -132,14 +132,14 @@ button.basemap_option:hover {
 }
 
 #new_marker_container.shown {
-  top: 100px;
-  left: 10px;
+  top: 0;
+  left: 0;
   /*-webkit-animation: slide_open 0.5s forwards;
     animation: slide_open 0.5s forwards;*/
 }
 
 #new_marker_container.escondido {
-  top: 0;
+  left: -100%;
   /*-webkit-animation: slide_close 1s forwards;
     animation: slide_close 1s forwards;*/
 }
