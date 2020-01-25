@@ -133,6 +133,7 @@ button.basemap_option:hover {
 
 #new_marker_container.shown {
   left: 0;
+  right: initial;
   /*-webkit-animation: slide_open 0.5s forwards;
     animation: slide_open 0.5s forwards;*/
 }
