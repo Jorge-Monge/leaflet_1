@@ -1,7 +1,7 @@
 {
   "name": "Working_Files",
   "version": "1.0.0",
-  "description": "<!--\r -- ICT 442 - Javascript and the DOM - Assignment 2\r -- February 12th, 2019",
+  "description": "<!--\r -- A web map using Leaflet ",
   "main": "index.js",
   "scripts": {
     "lambda-serve": "netlify-lambda serve functions",
@@ -11,7 +11,7 @@
     "mailer": "node functions/mailer.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jorge Monge",
   "license": "ISC",
   "dependencies": {
     "netlify-lambda": "^1.4.2",
