@@ -16,6 +16,7 @@
   "dependencies": {
     "acorn": ">=6.4.1",
     "elliptic": ">=6.5.3",
+    "gyp": "^0.5.0",
     "lodash": ">=4.17.19",
     "netlify-lambda": "^1.6.3",
     "nodemailer": "^5.1.1",
